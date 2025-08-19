@@ -3,12 +3,11 @@ Interactive analysis of Argentina’s attacking performance in Copa America 2024
 
 Folder Structure:
 
-data/
-events/ # Event JSON files
-lineups/ # Lineup JSON files
-scripts/ # Python scripts
-README.md
-LICENSE
+- `data/events/` 
+- `data/lineups/` 
+- `scripts/` 
+- `README.md`
+- `LICENSE`
 
 Python Package Requirements:
 
