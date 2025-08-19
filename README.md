@@ -2,11 +2,11 @@
 Interactive analysis of Argentina’s attacking performance in Copa America 2024 using StatsBomb event data. Calculates and visualizes metrics like xG, xA, goals, assists, chance conversion, efficiency, xT and player involvement in a dynamic dashboard.
 
 Folder Structure:
-├── data/
-│   ├── events/       # JSON files with match events
-│   └── lineups/      # JSON files with team lineups
-├── scripts/          # Python scripts for processing and visualization
-└── README.md         # Project overview
+data/events/    
+data/lineups/      
+scripts/          
+README.md
+LICENSE
 
 Python Package Requirements:
 os
