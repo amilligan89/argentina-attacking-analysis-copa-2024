@@ -5,7 +5,7 @@ Folder Structure:
 
 - `data/events/` 
 - `data/lineups/` 
-- `scripts/` 
+- `scr/` 
 - `README.md`
 - `LICENSE`
 
